@@ -1,0 +1,14 @@
+Aula 3 - Introdução ao Git
+
+Eu tinha uma vaga ideia do que era Git, mas achei o máximo. Não parece ser algo difícil, acho que só é mais 
+chato pra decorar os comandos no início, mas com o tempo parece ser de boa. 
+
+Pelo que entendi, é um controle de versão para evitar problemas quando várias pessoas mexem no mesmo arquivo, 
+quando uma equipe trabalha de forma colaborativa dentro do mesmo projeto. 
+
+Basicamente, um arquivo dentro da pasta controlada quando é alterado, pode ser adicionado à Staging Area e 
+fica lá aguardando ser “commitado” para que então ele seja de fato alterado para todos que têm acesso ao 
+projeto.
+
+Existem as branches, que são ramos do projeto. A branch principal comumente chamada de Main é a que é publica, 
+paralela a ela podem existir inúmeras que ao final é adicionada a Main (ou não) através do merge.
