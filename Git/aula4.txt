@@ -1,0 +1,10 @@
+Aula 4 - Git na Prática
+
+A prática do ‘Git’ foi no Git Bash, não é intuitivo para quem não tem conhecimento de Linux e não utiliza muito o terminal de comandos. Mas também não são comandos muito difíceis, eles acabam se repetindo com o tempo. 
+
+Nessa primeira aula de prática, nós configuramos o repositório e o usuário, bem como o email. 
+O comando que mais gostei foi o ‘git status’ que é bastante usado para vê em que pé está o repositório desde o último commit.
+
+O gitignore também achei muito importante, já que é preciso ter uma segurança dentro do repositório para o que não se quer publicar.
+
+Um comando que eu não lembrava mais e que na revisão agora acabei de relembrar foi o git rm --cached para remover um arquivo da staging area. 
