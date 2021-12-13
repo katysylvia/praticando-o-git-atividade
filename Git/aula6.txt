@@ -1,0 +1,4 @@
+Aula 6 - Aprofundando no Git II
+
+O ‘git merge’ foi o conceito mais importante da aula porque tudo no versionamento se resume a subir para o projeto principal o trabalho. 
+Além disso, o ‘git reset’ e suas variações são importantes, mas precisam ser utilizados com parcimônia, já que os commits imputam alterações que podem impactar nas alterações e commits seguintes. 
