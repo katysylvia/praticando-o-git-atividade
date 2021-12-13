@@ -1,0 +1,7 @@
+Aula 2 - Principais comandos do Terminal Linux 
+
+Na aula 2 fiquei meio perdida... foram dados muitos comandos de uma vez só e com uma didática um pouco 
+diferente do que estou acostumada.
+
+Mas o comando que mais gostei foi ‘echo’ porque ele mostra na tela o que o arquivo tem sem abrir o arquivo. 
+Assim com o ‘ls’ que mostra os diretórios que tem no computador.
