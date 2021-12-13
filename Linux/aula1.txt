@@ -1,0 +1,11 @@
+Aula 1 - Introdução ao Linux + Instalação da VM
+
+A primeira aula foi de instalação, eu já conhecia o conceito de Virtualização de Máquina, mas nunca na minha 
+vida tinha usado Linux. 
+Fiquei um pouco triste de saber que tendo algo tão prático quando o Windows, mesmo assim terei que saber 
+Linux por questão de segurança, preço e etc. 
+Mas a vida não é feita só do que gostamos e das coisas fáceis... Linux vai ser meu fel, mas o mel do resto 
+parece compensar.
+
+Eu achava que Linux era um Sistema Operacional, mas aprendi que é um Kernel, então considero a parte mais 
+interessante da aula como sendo essa. 
