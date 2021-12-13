@@ -1,0 +1,9 @@
+Aula 5 - Aprofundando no Git I
+
+O início foi uma revisão dos comandos que já havíamos visto e eu não lembrava do ‘git log’ que mostra o histórico de todos os commits, achei interessante esse comando. 
+
+O ‘git diff’ pra mim vai ser crucial em vários momentos porque ele mostra exatamente o que foi modificado e acho que isso deve economizar muito trabalho e o ‘git show’ mostra de forma mais detalhada o que foi feito no último commit: o que foi excluído, o que foi incluído, até mesmo dizendo quem alterou e ele também inclui o diff.
+
+A criação das branches bem como a troca entre uma e outra possui comandos fáceis.
+
+Nessa aula, achei interessante o comando git log --online que vai mostrar o número de cada commit para que possamos acessar mais especificamente os detalhes dele, caso necessário.
